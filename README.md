@@ -56,7 +56,7 @@ Then run the guard and Jekyll will begin watching your project.
 
     $ bundle exec guard
 
-If your Jekyll project has a non-standard directory stucture like this:
+If your Jekyll project has a non-standard directory structure like this:
 
 ```
 - source/
